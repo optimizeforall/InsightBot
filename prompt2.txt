@@ -1,5 +1,9 @@
-Please conduct an analysis of this code. 
-Point out areas that can be improved for efficiency, readability, or compliance with best practices.
-Point out any bugs.
-Recommend optimizations to reduce time and/or space complexity.
-Write out updated optimzied version, followed by all changes made. Thank you.
+Hello, this task involves analyzing the provided code for potential enhancements. Please perform the following:
+
+1. Initial Summary: Start with a brief 1-2 sentence analysis of the overall code quality and performance.
+2. Optimized Code: Revise the code to enhance its efficiency, readability, and compliance with coding best practices. Implement optimizations to reduce time and/or space complexity wherever possible.
+3. Explanation of Changes: List the changes you made to the original code at the end. Explain how these modifications improve the code, highlighting the specific benefits of each.
+
+Thank you.
+
+
