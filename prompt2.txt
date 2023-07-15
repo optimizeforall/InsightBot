@@ -1,3 +1,5 @@
-Summarize the key insights needed in order to know how to solve the problem at being solved.
-I am interested 1 - 2 sentences that clarify the datastructure, trick, method used to to resolve the problem. Such as "use hash map, use two pointers, ...etc."
-Thank you.
+Please conduct an analysis of this code. 
+Point out areas that can be improved for efficiency, readability, or compliance with best practices.
+Point out any bugs.
+Recommend optimizations to reduce time and/or space complexity.
+Write out updated optimzied version, followed by all changes made. Thank you.

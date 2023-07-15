@@ -1,5 +1,3 @@
-Please conduct an analysis of this code. Assume I am an engineer interested in performance.
-Point out areas that can be improved, whether for efficiency, readability, or compliance with best practices.
-If there are any bugs or errors point those out too.
-Recommend any possible enhancements or refactoring for better performance and maintainability.
-Write out updated version, followed by all changes made. Thank you.
+Summarize the key insights needed in order to know how to solve the problem at being solved.
+I am interested 1 - 2 sentences that clarify the datastructure, trick, method used to to resolve the problem. Such as "use hash map, use two pointers, ...etc."
+Thank you.
