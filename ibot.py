@@ -19,8 +19,9 @@ args = parser.parse_args()
 with open(args.filename, 'r') as file:
     file_contents = file.read()
 
+# Get the path of the script
 script_dir = os.path.dirname(os.path.realpath(__file__))
-
+# Get the path of the prompt files
 prompt1_path = os.path.join(script_dir, 'prompt1.txt')
 prompt2_path = os.path.join(script_dir, 'prompt2.txt')
 
