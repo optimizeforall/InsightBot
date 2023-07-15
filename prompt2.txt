@@ -1,0 +1,3 @@
+Summarize the key insights needed in order to know how to solve the problem at being solved.
+I am interested 1 - 2 sentences that clarify the datastructure, trick, method used to to resolve the problem. Such as "use hash map, use two pointers, ...etc."
+Thank you.
